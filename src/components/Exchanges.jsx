@@ -17,3 +17,6 @@ const Exchanges = () => {
     </div>
   );
 };
+
+
+export default Exchanges;
